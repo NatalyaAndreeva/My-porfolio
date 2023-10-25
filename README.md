@@ -28,7 +28,7 @@
 <p>
 
 
-> <a href="([https://github.com/users/NatalyaAndreeva/projects/4/views/1](https://drive.google.com/drive/quota))">Ссылка на проект</a>
+> <a href="(https://drive.google.com/drive/quota)">Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
 <p>Выводы (итоги):<p>
