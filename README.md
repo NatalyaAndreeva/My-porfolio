@@ -28,7 +28,7 @@
 <p>
 
 
-> <a href="([https://drive.google.com/drive/quota];(https://docs.google.com/spreadsheets/d/1Uaqw0fgi5iI0yFuci8gzyWJwQWkn0GUr/edit?usp=drive_web&ouid=116792531257770329270&rtpof=true))">Ссылка на проект</a>
+> <a href="https://docs.google.com/spreadsheets/d/1Uaqw0fgi5iI0yFuci8gzyWJwQWkn0GUr/edit?usp=drive_web&ouid=116792531257770329270&rtpof=true">Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
 <p>Выводы (итоги):<p>
